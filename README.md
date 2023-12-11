@@ -1,2 +1,2 @@
 # theComonClub
-the comon club
+the comon club is currently under development
